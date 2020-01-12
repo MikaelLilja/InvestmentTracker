@@ -1,0 +1,11 @@
+datastore:
+  engine: sqlite
+  database_name: foo.db
+provider:
+  morningstar:
+    username: lilja.mikael@gmail.com
+    password: Krosus1)
+  ondemand:
+    clientid: baz
+    username: lilja.mikael@gmail.com
+    password: Krosus1)
